@@ -59,7 +59,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
+git clone https://github.com/sudolokesh/Brain-Wave.git
 cd Brain-Wave
 ```
 
@@ -68,7 +68,7 @@ cd Brain-Wave
 Install the project dependencies using npm:
 
 ```bash
-npm install
+npm i
 ```
 
 **Running the Project**
